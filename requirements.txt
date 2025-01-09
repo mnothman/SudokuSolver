@@ -1,0 +1,9 @@
+# tesseract-ocr
+opencv-python
+# pytesseract
+numpy
+pandas
+# cv2
+tensorflow
+scikit-learn
+scikit-image

@@ -1,0 +1,3 @@
+data/datasetTraining/sudoku_training/sudoku.csv
+venv/
+src/__pycache__/
